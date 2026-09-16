@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=150&section=header&reversal=false" />
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=DAA520&width=900&size=22&center=true&lines=Hi,+I'm+Jonatas;CCO+Student+(Computer+Science+Development);Welcome+to+my+GitHub!;SAPERE+AUDE" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -18,18 +18,19 @@
   </a>
 </div>
 
-<br>
+---
 
-<h2 align="left">About Me</h2>
+## About Me
 
-<p align="left">Hello! I'm Jonatas, currently focused on machine learning engineering, and software development. I enjoy building innovative solutions, integrate different systems into a single application and transform data into useful insights.<br><br>
+<p align="left">Hello! I'm Jonatas, currently focused on back-end and software development. I enjoy building innovative solutions, integrate different systems into a single application and transform data into useful insights.<br>
+<p align="left">My interests lie in learning more about machine learning and data science, as well as honing my technical and interpersonal skills by working in teams and collaborating on large-scale projects.<br>
 - 🔭 I’m working as <a href="https://github.com/BioTrace-Monitoring">BioTrace</a> project<br>
 - 📚 I'm currently learning Python and its main libraries<br>
 - ⚡ In my free time I study physics and mathematics</p>
 
-<br>
+---
 
-<h2 align="left">Language and tools</h2>
+## Language and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -47,9 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
 </div>
 
-<br>
+---
 
-<h2 align="left">My Stats</h2>
+## My Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JonatasTeles&locale=en&mode=daily&background=0D1117&border=DAA520&stroke=DAA520&ring=DAA520&fire=DAA520&currStreakNum=DAA520&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=888888" height="180" alt="streak graph" />
@@ -58,7 +59,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JonatasTeles/JonatasTeles/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="" alt="Snake animation" />
 </div>
 
 <br>
