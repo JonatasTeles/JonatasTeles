@@ -69,8 +69,8 @@
 ## My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JonatasTeles&locale=en&mode=daily&background=0D1117&border=DAA520&stroke=DAA520&ring=DAA520&fire=DAA520&currStreakNum=DAA520&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=888888" height="195" alt="streak graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JonatasTeles&show_icons=true&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=ffffff&border_color=DAA520&count_private=true" height="195" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=JonatasTeles&locale=en&mode=daily&background=0D1117&border=DAA520&stroke=DAA520&ring=DAA520&fire=DAA520&currStreakNum=DAA520&currStreakLabel=DAA520&sideNums=ffffff&sideLabels=ffffff&dates=888888" height="165" alt="streak graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JonatasTeles&show_icons=true&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=ffffff&border_color=DAA520&count_private=true" height="165" alt="stats graph" />
 </div>
 
 <br>
