@@ -43,21 +43,26 @@
 
 ## Language and tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-</div>
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-DAA520?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-DAA520?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-DAA520?style=for-the-badge&logo=mysql&logoColor=white">
+    <!-- Backend & Data -->
+  <img src="https://img.shields.io/badge/Node.js-DAA520?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-DAA520?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/R-DAA520?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Data_Analytics-DAA520?style=for-the-badge&logo=databricks&logoColor=white">
+</p>
+
+<p align="center">
+  <!-- Tools & Cloud -->
+  <img src="https://img.shields.io/badge/Git-DAA520?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-DAA520?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-DAA520?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-DAA520?style=for-the-badge&logo=notion&logoColor=white">
+</p>
 
 ---
 
