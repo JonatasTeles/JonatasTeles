@@ -33,7 +33,7 @@
 - **WineSense**
   An academic project that involves creating a system to monitor wine during the fermentation phase using IoT solutions, processing and storing the collected data in a database located on a locally provisioned instance, creating custom dashboards to meet client needs, and managing incidents and SLA violations.
 
-  Stacks: JavaScript, HTML, CSS, MySQL, Node.js, Chart.js, Oracle VirtualBox
+  Stacks: JavaScript, HTML, CSS, JS, MySQL, C++, Node.js, Chart.js, Oracle VirtualBox, Arduino Uno 
 - **FaithForge**
   An academic project that involves creating a system of predefined questions and answers, as part of the development of the landing page, login page, question screen, and dashboard displaying various details about customer interactions within the system.
 
